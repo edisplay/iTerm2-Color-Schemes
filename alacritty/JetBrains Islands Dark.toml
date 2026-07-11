@@ -1,0 +1,33 @@
+# Colors (JetBrains Islands Dark)
+
+[colors.bright]
+black = '#73767c'
+blue = '#71a1fe'
+cyan = '#6aaea6'
+green = '#6db083'
+magenta = '#a894f6'
+red = '#f57e84'
+white = '#ffffff'
+yellow = '#d59637'
+
+[colors.cursor]
+cursor = '#bcbec4'
+text = '#191a1c'
+
+[colors.normal]
+black = '#191a1c'
+blue = '#538af9'
+cyan = '#4b9b93'
+green = '#4e9d6c'
+magenta = '#967bef'
+red = '#e4656e'
+white = '#bcbec4'
+yellow = '#c28013'
+
+[colors.primary]
+background = '#191a1c'
+foreground = '#bcbec4'
+
+[colors.selection]
+background = '#2a4371'
+text = '#d1d3d9'

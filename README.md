@@ -1054,6 +1054,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/jetbrains-darcula.png)
 
+### JetBrains Islands Dark
+
+![Screenshot](/screenshots/jetbrains-islands-dark.png)
+
 ### Jubi
 
 ![Screenshot](/screenshots/jubi.png)
@@ -1246,25 +1250,21 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/misterioso.png)
 
+### Modus Vivendi Deuteranopia
+
+![Screenshot](/screenshots/modus-vivendi-deuteranopia.png)
+
 ### Modus Vivendi Tinted
 
 ![Screenshot](/screenshots/modus-vivendi-tinted.png)
 
+### Modus Vivendi Tritanopia
+
+![Screenshot](/screenshots/modus-vivendi-tritanopia.png)
+
 ### Modus Vivendi
 
 ![Screenshot](/screenshots/modus-vivendi.png)
-
-### Modus Vivendi Deuteranopia
-
-Optimized for deuteranopia (red-green color blindness), the most common form.
-
-![Screenshot](/screenshots/modus-vivendi-deuteranopia.png)
-
-### Modus Vivendi Tritanopia
-
-Optimized for tritanopia (blue-yellow color blindness).
-
-![Screenshot](/screenshots/modus-vivendi-tritanopia.png)
 
 ### Molokai
 
@@ -2276,25 +2276,21 @@ Optimized for tritanopia (blue-yellow color blindness).
 
 ![Screenshot](/screenshots/melange-light.png)
 
+### Modus Operandi Deuteranopia
+
+![Screenshot](/screenshots/modus-operandi-deuteranopia.png)
+
 ### Modus Operandi Tinted
 
 ![Screenshot](/screenshots/modus-operandi-tinted.png)
 
+### Modus Operandi Tritanopia
+
+![Screenshot](/screenshots/modus-operandi-tritanopia.png)
+
 ### Modus Operandi
 
 ![Screenshot](/screenshots/modus-operandi.png)
-
-### Modus Operandi Deuteranopia
-
-Optimized for deuteranopia (red-green color blindness), the most common form.
-
-![Screenshot](/screenshots/modus-operandi-deuteranopia.png)
-
-### Modus Operandi Tritanopia
-
-Optimized for tritanopia (blue-yellow color blindness).
-
-![Screenshot](/screenshots/modus-operandi-tritanopia.png)
 
 ### Monokai Pro Light Sun
 

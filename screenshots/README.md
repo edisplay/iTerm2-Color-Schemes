@@ -1376,6 +1376,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/purplepeter.png)
 
+### Pyrokai
+
+![Screenshot](/screenshots/pyrokai.png)
+
 ### Rapture
 
 ![Screenshot](/screenshots/rapture.png)
@@ -2221,6 +2225,10 @@ The screenshots are categorized.
 ### Pro Light
 
 ![Screenshot](/screenshots/pro-light.png)
+
+### Pyrokai Light
+
+![Screenshot](/screenshots/pyrokai-light.png)
 
 ### Raycast Light
 

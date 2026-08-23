@@ -886,6 +886,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/grey-green.png)
 
+### Grok Night
+
+![Screenshot](/screenshots/grok-night.png)
+
 ### Gruber Darker
 
 ![Screenshot](/screenshots/gruber-darker.png)
@@ -2046,6 +2050,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/violite.png)
 
+### Warm Burnout Dark
+
+![Screenshot](/screenshots/warm-burnout-dark.png)
+
 ### Warm Neon
 
 ![Screenshot](/screenshots/warm-neon.png)
@@ -2251,6 +2259,10 @@ The screenshots are categorized.
 ### GitLab Light
 
 ![Screenshot](/screenshots/gitlab-light.png)
+
+### Grok Day
+
+![Screenshot](/screenshots/grok-day.png)
 
 ### Gruvbox Light Hard
 
@@ -2595,6 +2607,10 @@ The screenshots are categorized.
 ### Violet Light
 
 ![Screenshot](/screenshots/violet-light.png)
+
+### Warm Burnout Light
+
+![Screenshot](/screenshots/warm-burnout-light.png)
 
 ### Xcode Light hc
 
